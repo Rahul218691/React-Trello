@@ -1,4 +1,4 @@
-# Trello-Clone-React-
+# Trello-Clone-React
 Trello taskmanagement using react.  
 Used Localstorage for data persistance.  
 
